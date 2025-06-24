@@ -4,13 +4,9 @@ A **modern and fully responsive eCommerce landing page** built using **Tailwind 
 
 ![Preview](https://ik.imagekit.io/codewithsadee/cozynest/Thumbnail-github.png?updatedAt=1750768815569)
 
----
-
 ## 🚀 Live Demo
 
 🔗 [View Deployed Site](https://cozynest.codewithsadee.com)
-
----
 
 ## 📌 Features
 
@@ -23,29 +19,12 @@ A **modern and fully responsive eCommerce landing page** built using **Tailwind 
 - 🚀 Custom slider with auto-slide functionality using vanilla JavaScript
 - ☁️ Deployed on Hostinger
 
----
-
-## 📁 Project Structure
-
-📦 cozynest
-├── 📁 assets
-├───├── 📁 images
-├───├── 📁 js
-├── 📁 src
-├───├── 📄 style.css
-├── 📄 index.html # Main HTML structure
-└── 📄 README.md # Project documentation
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5**
 - **Tailwind CSS**
 - **JavaScript**
 - **Hostinger** (for deployment)
-
----
 
 ## 🧰 Getting Started
 
@@ -59,12 +38,8 @@ cd cozynest
 2. **Open** `index.html` in your browser
    No build tools needed – just open and go!
 
----
-
 ## 📺 Watch the complete tutorial
 
 🔗 [YouTube](https://https://youtu.be/Gjjlw3TfLXg)
-
----
 
 THANK YOU ❤
