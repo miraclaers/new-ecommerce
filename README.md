@@ -37,9 +37,4 @@ cd cozynest
 
 2. **Open** `index.html` in your browser
    No build tools needed – just open and go!
-
-## 📺 Watch the complete tutorial
-
-🔗 [YouTube](https://https://youtu.be/Gjjlw3TfLXg)
-
 THANK YOU ❤
